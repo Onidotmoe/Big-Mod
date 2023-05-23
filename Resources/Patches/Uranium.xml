@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Uranium"]/statBases</xpath>
+        <value>
+            <Flammability>0</Flammability>
+        </value>
+    </Operation>
+</Patch>
