@@ -148,7 +148,7 @@ namespace BigMod.Entities
             OpenWindow(new Windows.Resources.Resources());
 
             // TODO: Debugging
-            OpenWindow(new Windows.Overview.Overview());
+            //OpenWindow(new Windows.Overview.Overview());
         }
 
         /// <summary>
