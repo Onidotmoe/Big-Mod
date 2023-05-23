@@ -6,11 +6,13 @@ Mainly the GUI, with a Entity based system built ontop of Unity's IMGUI system, 
 
 
 #### Previews
-![General Overview](https://github.com/Onidotmoe/Big-Mod/assets/32226493/ea77db90-9c84-4f4c-bb14-86e9012bf940)
-![Inspect Panel and Splitting Pawns Window](https://github.com/Onidotmoe/Big-Mod/assets/32226493/e3d96691-5d2d-429a-8bbe-2cd360fbae3e)
-![Moveable Windows and Gizmos](https://github.com/Onidotmoe/Big-Mod/assets/32226493/c895f441-1873-4092-8948-0dbaa421b245)
-![Overview window](https://github.com/Onidotmoe/Big-Mod/assets/32226493/45f652ae-fd22-4508-8298-695bd94a94d4)
-![Trading Screen](https://github.com/Onidotmoe/Big-Mod/assets/32226493/57c781ef-1377-459a-902f-3170313e70a9)
+
+![General Overview](https://github.com/Onidotmoe/Big-Mod/assets/32226493/3b3d7cbe-9d5d-4674-ac49-d75effb26753)
+![Inspect Panel and Splitting Pawns Window](https://github.com/Onidotmoe/Big-Mod/assets/32226493/8a4c59ff-19ca-49ed-b2e6-62f9f24ead22)
+![Alot of windows](https://github.com/Onidotmoe/Big-Mod/assets/32226493/5cddbb06-c0cb-4386-b1f8-bdb1ea274912)
+![Moveable Windows and Gizmos](https://github.com/Onidotmoe/Big-Mod/assets/32226493/4e52ff12-78a2-4d48-8ee2-1c8c7d53a52a)
+![Overview window](https://github.com/Onidotmoe/Big-Mod/assets/32226493/18dd826b-4063-4fc8-a954-c9f9e72b697c)
+![Trading Screen](https://github.com/Onidotmoe/Big-Mod/assets/32226493/a4c8d4c1-a743-4198-b5ba-e1acdb5d7f0d)
 
 #### Generic Pawn Element
 You'll see this element all over the place, you can shift-click it to add the Pawn to your current selection, or click it to just select the pawn, or double click it to goto the pawn on the map, this will make the camera follow that pawn, the camera following code is a bit funky.
